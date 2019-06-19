@@ -1,0 +1,13 @@
+﻿CHORD C Major 44100 200 3
+1 0 I strdown
+1 1 I strdown
+1 1.5 I strup
+1 2 I strdown
+1 2.5 I strup
+2 0 IV
+3 0 V add7
+4 0 I
+5 0 vi
+6 0 iii
+7 0 vi
+8 0 I sus4

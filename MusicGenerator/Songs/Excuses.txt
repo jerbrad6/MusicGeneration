@@ -1,0 +1,33 @@
+﻿CHORD F Major 44100 200 6
+1 0 I strdown
+1 1 I strdown
+1 1.5 I strup
+1 2 I strdown
+1 2.5 I strup
+1 3 I strdown
+1 4 I strdown
+1 5 I strdown
+2 0 vi strdown
+2 1 vi strdown
+2 1.5 vi strup
+2 2 vi strdown
+2 2.5 vi strup
+2 3 vi strdown
+2 4 vi strdown
+2 5 vi strdown
+3 0 ii strdown
+3 1 ii strdown
+3 1.5 ii strup
+3 2 ii strdown
+3 2.5 ii strup
+3 3 ii strdown
+3 4 ii strdown
+3 5 ii strdown
+4 0 V strdown  inversion=1
+4 1 V strdown  inversion=1
+4 1.5 V strup  inversion=1
+4 2 V strdown  inversion=1
+4 2.5 V strup  inversion=1
+4 3 V strdown  inversion=1
+4 4 V strdown  inversion=1
+4 5 V strdown  inversion=1
